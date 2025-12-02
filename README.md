@@ -1,4 +1,4 @@
-##📊 College Event Feedback Analysis – Data Science Internship Project
+## 📊 College Event Feedback Analysis – Data Science Internship Project
 
 This project analyzes a complete student dataset containing demographics, geographic information, academic grades, and application-quality ratings.  
 The goal is to perform **Exploratory Data Analysis (EDA)** and generate insights about student performance, diversity, and application strength.
